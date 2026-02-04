@@ -18,3 +18,8 @@ async function hitUrl() {
 // Run immediately, then every 5 minutes
 hitUrl();
 setInterval(hitUrl, INTERVAL);
+
+
+
+
+DISCARDED
